@@ -17,11 +17,11 @@ Steps to reproduce the behavior:
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
-*Example: 
-1. Go to a sentence page.
-2. Type 'ani' in the tag field.
-3. Click on the suggestion 'animal'.
-4. The tag is not added*
+*Example: *
+*1. Go to a sentence page.*
+*2. Type 'ani' in the tag field.*
+*3. Click on the suggestion 'animal'.*
+*4. The tag is not added*
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
@@ -30,7 +30,7 @@ A clear and concise description of what you expected to happen.
 **Screenshots (if applicable)**
 If applicable, add screenshots to help explain your problem.
 
-**Additional information (if relevant)
+**Additional information (if relevant)**
 - O.S., if possible with version *(Windows 10, iOS8.1, Linux distribution, etc.)*
 - Browser, if possible with version *(Firefox 76.0.1, Safari 13.1, etc.)*
 - Any other information related to your problem.
